@@ -1,0 +1,14 @@
+Name,Age,Department,Marks,Attendance,Salary,City
+Aarav,20.0,CSE,85.0,92.0,55000.0,Delhi
+Priya,21.0,ECE,78.0,85.0,48000.0,Mumbai
+Rohan,20.0,CSE,92.0,96.0,62000.0,Delhi
+Ananya,,CSE,88.0,90.0,58000.0,Jaipur
+Kabir,22.0,ME,,68.0,45000.0,Pune
+Meera,21.0,ECE,74.0,,50000.0,Delhi
+Aarav,20.0,CSE,85.0,92.0,55000.0,Delhi
+Vikram,23.0,ME,69.0,75.0,,Pune
+Sneha,,ECE,81.0,88.0,51000.0,Mumbai
+Rahul,22.0,CSE,,70.0,47000.0,Jaipur
+Ishita,21.0,ECE,95.0,98.0,65000.0,Delhi
+Arjun,20.0,ME,72.0,80.0,46000.0,Pune
+Aarav,20.0,CSE,85.0,92.0,55000.0,Delhi
