@@ -13,6 +13,7 @@ from pandas_analyzer import (
     get_correlation,
     group_data
 )
+from visualizer import render_visualization_menu
 
 
 # Page setup
@@ -213,3 +214,10 @@ if uploaded_file is not None:
             cleaned_df,
             use_container_width=True
         )
+
+
+    # ---------------- VISUALIZATIONS ----------------
+
+    st.subheader("📈 Visualizations")
+
+    render_visualization_menu(df)
